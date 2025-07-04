@@ -21,8 +21,7 @@ To build responsive, visually appealing CSS 3D flip cards that promote data anal
 
 ## 🔗 Live Preview
 
-[Click here to view the project live](https://your-username.github.io/your-repo-name/)  
-*(Replace the link above after deployment)*
+[Click here to view the project live](https://nouraldin-ashour.github.io/CSS-3D-clickable-flip-cards/)
 
 ## 🧠 Intern Task Context
 
@@ -31,25 +30,20 @@ This repository was created as part of a project-based learning internship. The 
 ## 📝 Instructions to Run Locally
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/your-repo-name.git`
+   `git clone https://github.com/Nouraldin-Ashour/CSS-3D-clickable-flip-cards.git`
 
 2. Open `index.html` in your browser
 
 ---
 
-## 🚀 Deployment Instructions (GitHub Pages)
+## 🚀 Deployment via GitHub Pages
 
-1. Push your code to GitHub
-2. Go to your repository Settings → Pages
-3. Under “Branch,” select `main` and root (`/`)
-4. Click **Save** — GitHub will publish your site
-
-Your site will be available at:  
-`https://your-username.github.io/your-repo-name/`
+1. Go to your repository’s [Settings → Pages](https://github.com/Nouraldin-Ashour/CSS-3D-clickable-flip-cards/settings/pages)
+2. Under **Branch**, select `main` and `/ (root)`
+3. Click **Save**
+4. After a few seconds, your project will be live at:  
+   👉 https://nouraldin-ashour.github.io/CSS-3D-clickable-flip-cards/
 
 ---
 
-## 🙋‍♂️ Author
 
-**Nouraldin Ashour**  
-Intern @ Lime-Light-TechLead  
